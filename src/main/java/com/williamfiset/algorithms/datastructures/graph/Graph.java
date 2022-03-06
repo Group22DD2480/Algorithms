@@ -37,17 +37,13 @@ public class Graph {
       this.from = from;
       this.to = to;
     }
-
-    public Integer getFrom() {
+    
+	public Integer getFrom() {
 		return from;
-    }
-
-    public Integer getTo() {
-	  return to;
-    }
-
-
-  }
+	}
+	public Integer getTo() {
+		return to;
+	}
   
   /**
   * A node class that represents a node with a specified id
