@@ -44,6 +44,8 @@ public class Graph {
 	public Integer getTo() {
 		return to;
 	}
+	
+  }
   
   /**
   * A node class that represents a node with a specified id
